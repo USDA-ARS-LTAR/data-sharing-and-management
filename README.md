@@ -27,3 +27,6 @@ An informative video on what data management is: https://www.youtube.com/watch?v
    
 ### What is a good guide to define and create a data inventory?
 GovEx Labs - Data Inventory Guide: [https://labs.centerforgov.org/data-governance/data-inventory](https://labs.centerforgov.org/data-governance/data-inventory)
+
+### Git: How do I do a pull request? 
+Found this tutorial very useful to do this: [https://opensource.com/article/19/7/create-pull-request-github](https://opensource.com/article/19/7/create-pull-request-github)
